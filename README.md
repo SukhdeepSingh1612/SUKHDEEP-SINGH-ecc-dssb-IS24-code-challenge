@@ -20,11 +20,13 @@ To run the application first install node packages. Then start up the server and
 
 ### Navigate to Main Directory
 
+Create New Terminal Instance
+
 `cd server`
 
 `npm run start`
 
-`cd ..`
+Create New Terminal Instance
 
 `cd client`
 
